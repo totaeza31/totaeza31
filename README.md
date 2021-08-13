@@ -22,8 +22,6 @@
   <br />
   - 🌱 I’m currently learning **VueJs**.<br />
   <br />
-  - 💬 Ask me about **VueJs** <br />
-  <br />
   - 📫 How to reach me **nattapong.anupat@gmail.com** <br /><br />
 </div>
 
